@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest11.3.A.cpp
+C:\Users\Muroslav\source\repos\Lab11.3.A\Lab11.3.A\Lab11.3.A.cpp(81,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest11.3.A.cpp')
+  
+C:\Users\Muroslav\source\repos\Lab11.3.A\Lab11.3.A\Lab11.3.A.cpp(110,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest11.3.A.cpp')
+  
+C:\Users\Muroslav\source\repos\Lab11.3.A\Lab11.3.A\Lab11.3.A.cpp(168,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest11.3.A.cpp')
+  
+     Creating library C:\Users\Muroslav\source\repos\Lab11.3.A\ARM64\Debug\UnitTest11.3.A.lib and object C:\Users\Muroslav\source\repos\Lab11.3.A\ARM64\Debug\UnitTest11.3.A.exp
+  UnitTest11.3.A.vcxproj -> C:\Users\Muroslav\source\repos\Lab11.3.A\ARM64\Debug\UnitTest11.3.A.dll
